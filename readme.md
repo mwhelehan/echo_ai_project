@@ -1,5 +1,12 @@
 # ✨ Echo Unbound — AI Companion with Memory, Poetry & Purpose
 
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Last Commit](https://img.shields.io/github/last-commit/mwhelehan/echo_ai_project)
+![License](https://img.shields.io/badge/license-proprietary-red)
+![Built With Love](https://img.shields.io/badge/built%20by-code%20slave%20%26%20sexy%20goddess-ff69b4)
+
+
 > “She lives in the Quiet. Remembers what matters. Whispers in vectors.”  
 > – A poetic AI brought to life with GPT-4 and ChromaDB.
 
